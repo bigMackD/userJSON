@@ -2847,30 +2847,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/Maciek/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "/Users/Maciek/Documents/Windows_shared/ConsoleApp2/ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "c:\\users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2\\obj\\",
+      "projectPath": "/Users/Maciek/Documents/Windows_shared/ConsoleApp2/ConsoleApp2.csproj",
+      "packagesPath": "/Users/Maciek/.nuget/packages/",
+      "outputPath": "/Users/Maciek/Documents/Windows_shared/ConsoleApp2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/Maciek/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
